@@ -48,6 +48,6 @@ This Power BI dashboard provides an interactive and visually appealing represent
 **Requirements**
 - Power BI Desktop
 - Internet connection for data refresh (if applicable)
-- 
+
 **Contributing**
 We welcome contributions to improve this dashboard. If you have suggestions or enhancements, please submit a pull request or open an issue.
