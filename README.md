@@ -42,6 +42,8 @@ This Power BI dashboard provides an interactive and visually appealing represent
 - Hover over charts and graphs to view detailed insights.
 - Screenshot
 ![image](https://github.com/ragh945/TOP-100-BATSMAN-ODI-RANKINGS-Dashboard-/assets/65483520/0ced4a27-9fe2-430b-8692-51c970a42fae)
+![Screenshot (42)](https://github.com/ragh945/TOP-100-BATSMAN-ODI-RANKINGS-Dashboard-/assets/65483520/018563c3-f15e-4478-b81f-dda74d8c2251)
+
 
 **Requirements**
 - Power BI Desktop
