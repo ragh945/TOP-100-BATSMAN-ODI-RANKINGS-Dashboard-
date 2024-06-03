@@ -1,7 +1,7 @@
 # TOP-100-BATSMAN-ODI-RANKINGS-Dashboard-
 
 ***Title***:
-***Top 100 T20 Batsmen Rankings***
+***Top 100 ODI Batsmen Rankings***
 
 **Font and Format:**
 - Font Type: Use a clean and modern font such as Segoe UI, Calibri, or Arial.
@@ -32,7 +32,7 @@ This Power BI dashboard provides an interactive and visually appealing represent
 
 **How to Use**
 - Clone the Repository:
-- Copy code:git clone https://github.com/yourusername/ODI-Batsman-Rankings-Dashboard.git
+- Copy code:git clone https://github.com/ragh945/TOP-100-BATSMAN-ODI-RANKINGS-Dashboard-
 - Open in Power BI Desktop:
 - Download and install Power BI Desktop.
 - Open the .pbix file in Power BI Desktop.
